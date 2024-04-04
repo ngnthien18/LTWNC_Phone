@@ -1,0 +1,72 @@
+<!-- <div class="alert text-center p-5 h2" *ngIf="listDonHang.length === 0">
+    Bạn chưa có đơn hàng nào
+  </div>
+  <div *ngIf="listDonHang.length > 0">
+    <div *ngFor="let item of listDonHang">
+      <div>Đơn Hàng: {{item.id}}</div>
+      <div>Họ Tên: {{item.hoten}}</div>
+      <div>Địa Chỉ: {{item.diachi}}</div>
+      <div>Điện Thoại: {{item.dienthoai}}</div>
+      <div>Email: {{item.email}}</div>
+      <div *ngFor="let items of listDonHangCT">
+        <table id="donhangCT" class="table table-bordered">
+          <thead>
+            <tr>
+              <th>STT</th>
+              <th>Tên Sản Phẩm</th>
+              <th>Số Lượng</th>
+              <th>Giá Sản Phẩm</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let items of listDonHangCT">
+              <td>{{ items.id }}</td>
+              <td>{{ items.tensp }}</td>
+              <td>{{ items.soluong }}</td>
+              <td>{{ items.giasp }}</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    </div> -->
+    <div class="alert text-center p-5 h2" *ngIf="listDonHang.length === 0">
+      Bạn chưa có đơn hàng nào
+    </div>
+    <div *ngIf="listDonHang.length > 0">
+      <div *ngFor="let item of listDonHang">
+        <div>
+          <button class="btn btn-link" (click)="onSelectDonHang(item)">
+            Đơn Hàng: {{item.id}}
+          </button>
+        </div>
+        <!-- Hiển thị thông tin hóa đơn được chọn -->
+        <div *ngIf="selectedDonHang?.id === item.id">
+          <div>Họ Tên: {{selectedDonHang?.hoten}}</div>
+          <div>Địa Chỉ: {{selectedDonHang?.diachi}}</div>
+          <div>Điện Thoại: {{selectedDonHang?.dienthoai}}</div>
+          <div>Email: {{selectedDonHang?.email}}</div>
+          <div>Tổng Tiền: {{selectedDonHang?.tongtien | number:'1.0-0':'fr' }} VNĐ</div>
+    
+          <!-- Hiển thị bảng chi tiết hóa đơn cho hóa đơn được chọn -->
+          <table id="donhangCT" class="table table-bordered">
+            <thead>
+              <tr>
+                <th>Tên Sản Phẩm</th>
+                <th>Số Lượng</th>
+                <th>Giá Sản Phẩm</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr *ngFor="let itemCT of listDonHangCT">
+                <td>{{ itemCT.tensp }}</td>
+                <td>{{ itemCT.soluong }}</td>
+                <td>{{ itemCT.giasp | number:'1.0-0':'fr' }} VNĐ</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+    

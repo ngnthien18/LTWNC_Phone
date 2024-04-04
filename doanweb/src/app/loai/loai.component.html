@@ -1,0 +1,6 @@
+<h2>LOẠI SẢN PHẨM</h2>
+<ul class="list-group">
+  <li class="list-group-item py-2" *ngFor="let loai of listLoaiSP">
+    <a href="/loai/{{loai.id}}"> {{loai.tenLoai | uppercase }}</a>
+  </li>
+</ul>

@@ -1,0 +1,33 @@
+<button class="btn btn-primary" type="button"routerLink="/themsp" >Tạo Mới</button>
+<table id="sp" class="table table-bordered" style="margin-top: 10px;" >
+    <thead>
+      <tr>
+        <th class="name-column">Tên sản phẩm</th>
+        <th>Giá</th>
+        <th class="small-image-column">Hình</th>
+        <th>Loại</th>
+        <th>Ngày</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of listSP | paginate: { itemsPerPage: pageSize, currentPage: pageNum, totalItems: total}">
+        <td>{{ item.tensp }}</td>
+        <td>{{ item.giasp | number:'1.0-0':'fr' }} VNĐ</td>
+        <td><img class="img-fluid product-image" src="{{item.hinh}}"></td>
+        <td>{{ item.idLoai }}</td>
+        <td>{{ item.ngay }}</td>
+        <td>
+            <button type ="button" class="btn btn-success" routerLink="/edit/{{item.id}}">
+                Sửa
+              </button>
+          <button type="button" class="btn btn-danger" style="margin-left: 10px;" (click)="xoaSP(item.id)">
+            Xóa
+          </button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <pagination-controls (pageChange)="chuyenDenTrang($event)"
+    previousLabel="Trước" nextLabel="Sau" [autoHide]="true" [responsive]="true">
+</pagination-controls>

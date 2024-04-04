@@ -1,0 +1,17 @@
+<h5 class="bg-primary p-2 text-white">SẢN PHẨM LIÊN QUAN</h5>
+<div class="row  row-cols-1  row-cols-md-2 row-cols-xl-3 g-2">
+    <div class="col" *ngFor="let sp of listSanPham" >
+        <div class="card text-center">
+            <div class="card-body">             
+              <img class="img-fluid" src="{{sp.hinh}}">
+              <h3 class="h4" style="height:45px">{{sp.tensp}}</h3>
+              <p class="h5 mt-3">
+                Giá : {{sp.giasp|number:'1.0-0':'fr' }} VNĐ
+              </p>
+            </div>
+            <div class="card-footer">
+                <a href="#" routerLink="/sanpham/{{sp.id}}">Xem chi tiết</a>
+            </div>
+        </div>  
+    </div>
+</div>

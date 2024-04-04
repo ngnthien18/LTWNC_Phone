@@ -1,0 +1,23 @@
+<!-- sanpham-them.component.html -->
+<h3 class="text-center">SỬA SẢN PHẨM</h3>
+<form #frmSP="ngForm" class="col-6 m-auto" (ngSubmit)="spSua(frmSP.value)" >
+    <p><label>Tên SP</label>
+       <input name="tensp" ngModel class="form-control" type="text" [(ngModel)]="spChiTiet.tensp">
+    </p>
+    <p><label>Giá SP</label>
+       <input name="giasp" ngModel class="form-control" type="number" [(ngModel)]="spChiTiet.giasp"> 
+    </p>
+    <p><label>Hình ảnh</label>
+        <input name="hinh" ngModel class="form-control" type="text" [(ngModel)]="spChiTiet.hinh"> 
+     </p>
+     <p><label>Loại</label>
+        <input name="idLoai" ngModel class="form-control" type="number" [(ngModel)]="spChiTiet.idLoai"> 
+     </p>
+     <p><label>Mô tả</label>
+        <input name="mota" ngModel class="form-control" type="text" [(ngModel)]="spChiTiet.mota"> 
+     </p>
+     <p><label>Ngày</label>
+        <input name="ngay" ngModel class="form-control" type="text" [(ngModel)]="spChiTiet.ngay"> 
+     </p>
+    <p><button type="submit" class="btn btn-success" >Lưu</button></p>
+</form>

@@ -1,0 +1,23 @@
+<!-- sanpham-them.component.html -->
+<h3 class="text-center">THÊM SẢN PHẨM</h3>
+<form #frmSP="ngForm" class="col-6 m-auto" (ngSubmit)="spthem(frmSP.value)" >
+    <p><label>Tên SP</label>
+       <input name="tensp" ngModel class="form-control" type="text"> 
+    </p>
+    <p><label>Giá SP</label>
+       <input name="giasp" ngModel class="form-control" type="number"> 
+    </p>
+    <p><label>Hình ảnh</label>
+        <input name="hinh" ngModel class="form-control" type="text"> 
+     </p>
+     <p><label>Loại</label>
+        <input name="idLoai" ngModel class="form-control" type="number"> 
+     </p>
+     <p><label>Mô tả</label>
+        <input name="mota" ngModel class="form-control" type="text"> 
+     </p>
+     <p><label>Ngày</label>
+        <input name="ngay" ngModel class="form-control" type="text"> 
+     </p>
+    <p><button type="submit" class="btn btn-success" >Thêm SP</button></p>
+</form>

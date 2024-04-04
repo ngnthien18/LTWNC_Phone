@@ -1,0 +1,56 @@
+.hovered {
+    color:white; /* Thay đổi màu chữ theo mong muốn */
+  }
+h3{color: rgb(248, 20, 47);
+}
+ul.list-group {
+  list-style: none;
+  padding: 0;
+}
+
+li.list-group-item {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  border-radius: 8px; /* Độ bo góc */
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Điều chỉnh giá trị theo mong muốn */
+}
+
+li.list-group-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  padding: 10px 15px;
+}
+
+li.list-group-item:hover {
+  background-color: #f8f8f8;
+}
+
+li.list-group-item.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+li.list-group-item.active:hover {
+  background-color: #0099ff;
+}
+
+li.list-group-item.active a {
+  color: #fff;
+}
+
+/* Tùy chỉnh khi hover vào li */
+li.list-group-item:hover a {
+  color: #007bff;
+}
+
+/* Khi hover vào li nhưng li đã active */
+li.list-group-item.active:hover a {
+  color: #fff;
+}

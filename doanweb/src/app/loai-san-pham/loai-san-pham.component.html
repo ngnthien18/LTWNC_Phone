@@ -1,0 +1,11 @@
+
+<ul class="list-group">
+  <li class="list-group-item list-group-item-action"
+      *ngFor="let loai of listLoaiSP; let i = index"
+      [class.active]="isHovered[i]"
+      (mouseenter)="isHovered[i] = true"
+      (mouseleave)="isHovered[i] = false">
+    <a href="/loai/{{loai.id}}" aria-current="true"
+       [class.hovered]="isHovered[i]">{{loai.tenLoai | uppercase}}</a>
+  </li>
+</ul>

@@ -1,0 +1,109 @@
+.container.chitietsp {
+    margin-top: 50px;
+  }
+  
+  /* Hình ảnh sản phẩm */
+  .product-image img {
+    max-width: 100%;
+    height: 390px;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Tiêu đề sản phẩm */
+  .product-name {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  /* Giá sản phẩm */
+  .product-price {
+    font-size: 20px;
+    font-weight: bold;
+    color: #d11f1f;
+    margin-top: 10px;
+  }
+  
+  /* Loại sản phẩm */
+  .product-category {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  /* Ngày sản phẩm */
+  .product-date {
+    font-size: 14px;
+    color: #777;
+  }
+  
+  /* Nút thêm vào giỏ hàng */
+  .btn-add-to-cart {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .btn-add-to-cart:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Mô tả sản phẩm */
+  .product-description {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-top: 20px;
+  }
+  
+  /* Đường viền cho các phần tử */
+  hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin-top: 30px;
+  }
+  
+  /* CSS cho phần sản phẩm liên quan */
+  .related-products h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  .related-products .card {
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .related-products .card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .related-products .card-title {
+    font-size: 18px;
+    font-weight: bold;
+    height: 60px;
+    overflow: hidden;
+  }
+  
+  .related-products .card-text {
+    font-size: 16px;
+    color: #d11f1f;
+  }
+  
+  /* Phần bình luận (chưa có CSS) */
+  .comments {
+    margin-top: 30px;
+  }
+  
+  /* Form thêm bình luận (chưa có CSS) */
+  .comment-form {
+    margin-top: 20px;
+  }

@@ -1,0 +1,525 @@
+{
+  "sanpham": [
+    {
+      "id": 1,
+      "tensp": "IPhone 14 Pro Max 128GB",
+      "giasp": "33490000",
+      "solanxem": 13,
+      "hot": 0,
+      "mota": "Máy thiết kế đột phá, màn hình siêu đẹp, tần số quét nâng cấp lên 120 Hz mượt mà, cảm biến camera có kích thước lớn hơn so với IPhone 13 promax",
+      "hinh": "https://th.bing.com/th/id/OIP.vupDlnrwFpPHctO-t7k_UAAAAA?pid=ImgDet&rs=1",
+      "ngay": "2023-01-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 2,
+      "tensp": "IPhone 14  128GB",
+      "giasp": "29490000",
+      "solanxem": 13,
+      "hot": 0,
+      "mota": "Phiên bảng màu xanh mới với thiết kế gần giống với Iphone 13, cảm biến camera có kích thước lớn hơn so với IP13",
+      "hinh": "https://bateeb.com/wp-content/uploads/2022/11/iphone-14-600x600-1.png",
+      "ngay": "2023-05-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 3,
+      "tensp": "IPhone 14 P  128GB",
+      "giasp": "29490000",
+      "solanxem": 13,
+      "hot": 0,
+      "mota": "Phiên bảng màu xanh mới với thiết kế gần giống với Iphone 13, cảm biến camera có kích thước lớn hơn so với IP13",
+      "hinh": "https://bizweb.dktcdn.net/100/112/815/products/iphone-14-plus-pdp-position-1-midnight-color-0-650x650-jpg-v-1680680513273.jpg?v=1682584830807",
+      "ngay": "2023-05-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 4,
+      "tensp": "Samsung S23 Ultral",
+      "giasp": "29700000",
+      "solanxem": 45,
+      "hot": 1,
+      "mota": "Samsung S23 Ultra là dòng điện thoại cao cấp của Samsung, sở hữu camera độ phân giải 200MP ấn tượng, chip Snapdragon 8 Gen 2 mạnh mẽ, bộ nhớ RAM 8GB mang lại hiệu suất xử lý vượt trội cùng khung viền vuông vức sang trọng. Sản phẩm được ra mắt từ đầu năm 2023.",
+      "hinh": "https://sourcing-media.hktdc.com/original-file/d3fb1ff40fe041c6851e288b4e011de1?bucket=PUBLIC_ACCESS_MEDIA_BUCKET_550",
+      "ngay": "2023-04-01",
+      "idLoai": "1"
+    },
+    {
+      "id": 5,
+      "tensp": "IPhone 13 Pro Max 128GB",
+      "giasp": "28490000",
+      "solanxem": 13,
+      "hot": 0,
+      "mota": "Máy thiết kế không mấy đột phá khi so với người tiền nhiệm, màn hình siêu đẹp, tần số quét nâng cấp lên 120 Hz mượt mà, cảm biến camera có kích thước lớn hơn",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-xanh-la-thumb-600x600.jpg",
+      "ngay": "2022-09-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 6,
+      "tensp": "Samsung Galaxy Z Flip3 5G 128GB ",
+      "giasp": "15000000",
+      "solanxem": 133,
+      "hot": 0,
+      "mota": "Samsung Galaxy Z Flip 5 có tính năng và giao diện ấn tượng nên được người dùng đánh giá cao trong quá trình sử dụng. Nhiều khách hàng đặt hàng trước để có thể là một trong số người sở hữu sản phẩm của nhà Samsung, thể hiện đẳng cấp của bản thân",
+      "hinh": "https://cdn2.cellphones.com.vn/x/media/catalog/product/8/0/800x800_flip_3_lavender_3_1_1_1.png",
+      "ngay": "2023-11-03",
+      "idLoai": "1"
+    },
+    {
+      "id": 7,
+      "tensp": "OPPO Reno7 Z 5G",
+      "giasp": "10490000",
+      "solanxem": 321,
+      "hot": 1,
+      "mota": "Sản phẩm có thiết kế OPPO Glow độc quyền, camera mang hiệu ứng như máy DSLR chuyên nghiệp cùng viền sáng kép, có cấu hình mạnh mẽ và đạt chứng nhận xếp hạng A về độ mượt.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-5g-thumb-1-1-600x600.jpg",
+      "ngay": "2019-04-04",
+      "idLoai": "1"
+    },
+    {
+      "id": 8,
+      "tensp": "Samsung Galaxy A03 3GB",
+      "giasp": "2990000",
+      "solanxem": 5,
+      "hot": 1,
+      "mota": "Là điện thoại Galaxy A đầu tiên của nhà Samsung trong năm 2022 tại VN. Sản phẩm có giá dễ tiếp cận, camera chính đến 48 MP, pin 5000 mAh thoải mái sử dụng cả ngày.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/251856/samsung-galaxy-a03-xanh-thumb-600x600.jpg",
+      "ngay": "2019-04-02",
+      "idLoai": "1"
+    },
+    {
+      "id": 9,
+      "tensp": "Samsung Galaxy A52s 5G",
+      "giasp": "10990000",
+      "solanxem": 34,
+      "hot": 1,
+      "mota": "Điện thoại Galaxy A52s 5G là phiên bản nâng cấp của Galaxy A52 5G, với ngoại hình không đổi nhưng được nâng cấp đáng kể về thông số cấu hình bên trong.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/247507/samsung-galaxy-a52s-5g-mint-600x600.jpg",
+      "ngay": "2020-04-07",
+      "idLoai": "1"
+    },
+    {
+      "id": 10,
+      "tensp": "Xiaomi Redmi Note 11",
+      "giasp": "5490000",
+      "solanxem": 45,
+      "hot": 1,
+      "mota": "Xiaomi Redmi Note 11 được xem như chiếc smartphone có giá tầm trung ấn tượng, với 1 cấu hình mạnh, cụm camera xịn sò, pin khỏe, sạc nhanh mà giá lại rất phải chăng.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/245261/Xiaomi-redmi-note-11-blue-600x600.jpg",
+      "ngay": "2020-04-01",
+      "idLoai": "1"
+    },
+    {
+      "id": 11,
+      "tensp": "Vivo Y33s",
+      "giasp": "6990000",
+      "solanxem": 133,
+      "hot": 0,
+      "mota": "Vivo Y33s thiết kế trẻ trung với màu đen tráng gương và xanh mộng mơ. Phiên bản màu đen được phủ lớp tráng gương sáng bóng, có thể trở thành chiếc gương tiện lợi",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/42/249102/Vivo-y33s-yellow-thumb-600x600.jpg",
+      "ngay": "2018-04-03",
+      "idLoai": "1"
+    },
+    {
+      "id": 12,
+      "tensp": "MacBook Air M1 13",
+      "giasp": "19500000",
+      "solanxem": 77,
+      "hot": 1,
+      "mota": "Macbook Air M1 là dòng sản phẩm có thiết kế mỏng nhẹ, sang trọng và tinh tế cùng với đó là giá thành phải chăng nên MacBook Air đã thu hút được đông đảo người dùng yêu thích và lựa chọn. Đây cũng là một trong những phiên bản Macbook Air mới nhất mà khách hàng không thể bỏ qua khi đến với CellphoneS. Dưới đây là chi tiết về thiết kế, cấu hình của máy.",
+      "hinh": "https://cdn.hoanghamobile.com/i/productlist/dsp/Uploads/2021/09/23/image-removebg-preview-13.png",
+      "ngay": "2020-04-09",
+      "idLoai": "2"
+    },
+    {
+      "id": 13,
+      "tensp": "MacBook Pro 14 M1 Pro",
+      "giasp": "42490000",
+      "solanxem": 231,
+      "hot": 0,
+      "mota": "Apple đã giới thiệu MacBook Pro 14 inch vào tháng 10/2023, mang một diện mạo mới cùng bộ vi xử lý do hãng tự phát triển, không chỉ cho hiệu năng vượt trội mà còn sở hữu màn hình với khả năng hiển thị thực sự ấn tượng, khiến mình mê mẩn khi cầm trên tay trải nghiệm. Sức mạnh hiệu năng đỉnh cao hơn bao giờ hết. MacBook Pro 14 inch mang trong mình bộ vi xử lý M1 Pro được sản xuất bằng tiến trình 5 nm hiện đại, tích hợp 8 lõi CPU với 6 lõi hiệu suất cao và 2 lõi tiết kiệm điện năng, hứa hẹn khả năng xử lý nhanh hơn tới 70% so với CPU của M1, đồng thời giảm điện năng tiêu thụ đáng kể để kéo dài thời lượng pin.",
+      "hinh": "https://cdn.hoanghamobile.com/i/preview/Uploads/2023/02/10/s0.png",
+      "ngay": "2023-10-02",
+      "idLoai": "2"
+    },
+    {
+      "id": 14,
+      "tensp": "MACBOOK PRO M2",
+      "giasp": "35000000",
+      "solanxem": 672,
+      "hot": 1,
+      "mota": "Bên cạnh MacBook Air M2 thì Apple còn giới thiệu cả MacBook Pro M2 tại sự kiện WWDC 2022. Phiên bản mới không có thay đổi về thiết kế, thay vào đó chỉ nâng cấp hiệu năng với chipset M2.",
+      "hinh": "https://bachlongstore.vn/vnt_upload/product/03_2023/hh.png",
+      "ngay": "2023-05-01",
+      "idLoai": "2"
+    },
+    {
+      "id": 15,
+      "tensp": "Acer Nitro 5-2019",
+      "giasp": "19690000",
+      "solanxem": 14,
+      "hot": 0,
+      "mota": "Điểm thay đổi lớn nhất của Nitro 5 phiên bản 2019 là ở khâu thiết kế. Khác với phiên bản Nitro 5 Carbon, lớp vỏ A bên ngoài của Nitro 5 2019 không còn là vân carbon nữa mà được làm tối giản hơn với bề mặt đen trơn truyền thống, tô điểm bằng mảng vân caro tạo điểm nhấn ở hai bên. Điểm đặc biệt của lớp vỏ này là không bám dấu vân tay giúp giữ cho chiếc máy luôn tươi mới.",
+      "hinh": "https://www.acervietnam.com.vn/wp-content/uploads/2021/02/acer-nitro-5-01.png",
+      "ngay": "2020-05-01",
+      "idLoai": "2"
+    },
+    {
+      "id": 16,
+      "tensp": "Acer Nitro 5-2021",
+      "giasp": "23590000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Laptop gaming với cấu hình mạnh mẽ, thiết kế trẻ trung, hiện đạiCác dòng laptop hiện nay rất được ưa chuộng không chỉ bởi game thủ mà còn bởi nhiều đối tượng người dùng vì không chỉ sở hữu thiết kế độc đáo mà còn được trang bị cấu hình mạnh mẽ để đáp ứng các trận game hấp dẫn hoặc các nhu cầu giải trí hay làm việc, học tập. Để mang đến cho người dùng một chiếc laptop mạnh mẽ nhưng vẫn có giá rất hợp lý, Acer đã mang đến laptop Acer Nitro 5 AN515-55-58A7-57 người trợ thủ đắc lực cho mọi game thủ.",
+      "hinh": "https://ngocsoncomputer.com/Upload/product/6428acernitro5amd2021an5151-3757.png",
+      "ngay": "2020-05-02",
+      "idLoai": "2"
+    },
+    {
+      "id": 17,
+      "tensp": "MSI Modern 14 i3",
+      "giasp": "12190000",
+      "solanxem": 189,
+      "hot": 1,
+      "mota": "Laptop MSI Modern 14 B11MOU i3 (1027VN) là phiên bản laptop phổ thông được nhà MSI cho ra mắt với sứ mệnh phục vụ tốt mọi tác vụ thiết yếu cơ bản hằng ngày của người dùng khi sở hữu cấu hình ổn định đến từ con chip Intel Gen 11 cùng ngoại hình trang nhã, thời thượng và mang tính di động cao. Thu hút mọi ánh nhìn với lối thiết kế sang trọng. Lớp vỏ kim loại bền chắc có gam màu xám chủ đạo đã toát lên vẻ sang trọng và thời thượng cho laptop MSI Modern, giúp cho chủ nhân sở hữu nó nổi bật hơn hẳn dù làm việc trong văn phòng hay những quán cafe đông người. Độ linh hoạt được hoàn thiện đáng kể khi máy sở hữu khối lượng chỉ vỏn vẹn 1.3 kg, cho phép bạn di chuyển đến bất cứ mọi không gian bạn muốn mà không lo cồng kềnh, nặng nhọc.",
+      "hinh": "https://anphat.com.vn/media/product/44521_laptop_msi_modern_14_c11m_011vn__core_i3___3_.jpg",
+      "ngay": "2020-05-02",
+      "idLoai": "2"
+    },
+    {
+      "id": 18,
+      "tensp": "Acer Aspire 7 Game",
+      "giasp": "14990000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Laptop Aspire 7 Gaming A715 42G R4XX R5 (NH.QAYSV.008) sở hữu hiệu năng khoẻ cùng thiết kế mạnh mẽ, là bạn đồng hành lý tưởng trong mọi cuộc hành trình. Laptop AMD Ryzen 5 5500U cùng card rời NVIDIA GeForce GTX 1650 4 GB, mang đến khả năng thiết kế 2D, render video ngắn,... ổn định trên các phần mềm Adobe hay giải trí với các tựa game kịch tính trên thị trường hiện nay một cách mượt mà. Chiếc laptop Acer Aspire còn sở hữu RAM 8 GB và SSD 256 GB đáp ứng tốt nhu cầu đa nhiệm, hỗ trợ bạn thao tác mọi việc nhanh chóng và hiệu quả hơn. Phiên bản laptop này với khối lượng 2.1 kg và dày 22.9 mm, được chế tác từ chất liệu nhựa bền bỉ, dễ dàng để bạn mang đi khắp mọi nơi.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/44/239538/Slider/vi-vn-acer-aspire-7-a715-41g-r150-r7-nhq8ssv004-thumbvideo.jpg",
+      "ngay": "2018-05-03",
+      "idLoai": "2"
+    },
+    {
+      "id": 19,
+      "tensp": "Apple Watch Series 7 GPS Aluminum Case",
+      "giasp": "7950000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Nâng cấp mà Apple mang lên Apple Watch Series 7 đó chính là về màn hình với kích thước sẽ được làm lớn hơn, kéo ra sát các cạnh máy giúp bạn có không gian sử dụng nhiều hơn và thiết kế sản phẩm trông đẹp cũng như ấn tượng hơn. Kéo theo sự thay đổi về kích thước màn hình thì kích thước mặt đồng hồ cũng có sự tăng nhẹ từ 40 mm và 44 mm lên thành 41 mm và 45 mm. ",
+      "hinh": "https://iwatch.vn/wp-content/uploads/2021/10/GPS.png",
+      "ngay": "2020-05-03",
+      "idLoai": "3"
+    },
+    {
+      "id": 20,
+      "tensp": "Apple Watch Series 6 GPS 40mm ",
+      "giasp": "4150000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Chiếc đồng hồ này sở hữu màn hình Retina sắc nét, có độ sáng cao và độ tương phản tốt. Màn hình của Apple Watch Series 6 40mm có kích thước 1.57 inch và có thể hiển thị sáng hơn tới 2.5 lần so với ngoài trời, giúp bạn có thể xem đầy đủ các thông tin mọi lúc, mọi nơi, kể cả khi tham gia các hoạt động ngoài trời.",
+      "hinh": "https://cdn.phuckhangmobile.com/image/apple-watch-series-6-vang-900-21196j.jpg",
+      "ngay": "2020-05-03",
+      "idLoai": "3"
+    },
+    {
+      "id": 21,
+      "tensp": "APPLE WATCH SERIES 8 45MM GPS",
+      "giasp": "17250000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": " Always-On Retina display (Màn hình Retina luôn bật) Hỗ trợ nghe nhạc ngay cả khi không có điện thoại bên cạnh.Dòng máy tương thích : iPhoneHỗ trợ định vị GPS và bộ vi xử lí GLONASS Xử lý/ Bộ nhớ : Apple S8 Dung lượng Pin/Thời gian sử dụng : Lên đến 18h Thông báo : Tin nhắn, cuộc gọi,…Cảm biến : con quay hồi , cảm biến nhịp tim thế hệ 2, gia tốc, SpO2, VO2max. Hệ điều hành : WatchOS 9",
+      "hinh": "https://bachlongstore.vn/vnt_upload/product/09_2022/starlight_lte.png",
+      "ngay": "2020-05-03",
+      "idLoai": "3"
+    },
+    {
+      "id": 22,
+      "tensp": "APPLE IPAD AIR 5 M1",
+      "giasp": "17950000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Mỗi khi một chiếc iPad mới vừa ra lò như một cơn chấn động thật sự bùng nổ. Đến năm 2022, chúng ta lại tiếp tục bùng nổ với chiếc iPad mới mang tên iPad Air 5 với nhiều cải tiến đáng giá. Thế hệ thứ 5 này mang đến cho bạn những điểm gì vượt trội hay có gì sáng giá để sở hữu, hãy để lại phần bình luận ở bên dưới nhé.",
+      "hinh": "https://bachlongstore.vn/vnt_upload/product/05_2023/z4366233393230_40efbb8618e0ef53701f11eb71da6151.jpg",
+      "ngay": "2019-05-03",
+      "idLoai": "4"
+    },
+    {
+      "id": 23,
+      "tensp": "iPad Air 10.9-inch 2020",
+      "giasp": "13500000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Mỗi khi một chiếc iPad mới vừa ra lò như một cơn chấn động thật sự bùng nổ. Đến năm 2022, chúng ta lại tiếp tục bùng nổ với chiếc iPad mới mang tên iPad Air 5 với nhiều cải tiến đáng giá. Thế hệ thứ 5 này mang đến cho bạn những điểm gì vượt trội hay có gì sáng giá để sở hữu, hãy để lại phần bình luận ở bên dưới nhé.",
+      "hinh": "https://www.maccenter.vn/App_Images/iPadAir-2020-SpaceGray-A.png",
+      "ngay": "2020-05-03",
+      "idLoai": "4"
+    },
+    {
+      "id": 24,
+      "tensp": "iPad mini 6 Wifi 2021",
+      "giasp": "17500000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Đánh giá chi tiết iPad Mini 6 WiFi 2021 Sức mạnh khủng khiếp trong một thiết kế nhỏ gọn đáng yêu, iPad Mini 6 2021 đánh dấu sự trở lại mạnh mẽ của dòng iPad mini luôn được người dùng yêu thích, nơi bạn được tận hưởng ma thuật bên trong chiếc máy tính bảng tuyệt đẹp,hiệu suất đỉnh cao và hỗ trợ bút cảm ứng Apple Pencil",
+      "hinh": "https://stcv4.hnammobile.com/uploads/products/colors/6/apple-ipad-mini-6-5g-64gb-01637143205.jpg",
+      "ngay": "2020-05-03",
+      "idLoai": "4"
+    },
+    {
+      "id": 25,
+      "tensp": "Máy tính bảng iPad Pro 11 (2020)",
+      "giasp": "21500000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "iPad Pro 11 inch Wifi 128GB (2020) là mẫu iPad được Apple ra mắt vào 18/3 với thiết kế gần như không thay đổi so với thế hệ trước, chủ yếu là sự nâng cấp đến từ chip A12Z cho hiệu năng mạnh mẽ và cụm camera có cảm biến mới hỗ trợ tăng cường thực tế ảo",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/522/220163/ipad-pro-11-inch-2020-xam-1020x680-org.jpg",
+      "ngay": "2020-05-03",
+      "idLoai": "4"
+    },
+    {
+      "id": 26,
+      "tensp": "iPad Pro 11 2021 M1 5G 256GB",
+      "giasp": "26500000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "iPad Pro 11 2021 5G 256GB được trang bị con chip Apple M1 mang lại hiệu năng ấn tượng, nhanh hơn tới 50% và xử lý đồ họa tốt hơn 40% so với thế hệ trước. Nếu nhu cầu lưu trữ của bạn cao hơn, tham khảo ngay iPad Pro 11 2021 5G 512GB",
+      "hinh": "https://cdn2.cellphones.com.vn/358x358,webp,q100/media/catalog/product/i/p/ipad-pro-2021-11inch-grey_1.jpg",
+      "ngay": "2021-05-03",
+      "idLoai": "4"
+    },
+    {
+      "id": 27,
+      "tensp": "iPad Pro 12.9 inch (M2, 2022)",
+      "giasp": "32500000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Kỷ nguyên sức mạnh mới của iPad Pro 2022 đã đến, sự góp mặt của chip Apple M2 cực mạnh giúp iPad Pro M2 đạt tới mức hiệu năng chưa từng có. Trên sản phẩm này, bạn sẽ thấy những công nghệ nổi bật như selfie toàn cảnh 122 độ, kết nối WiFi 6E, màn hình Liquid Retina sắc sảo cùng nhiều cải tiến mới trên Apple Pencil 2",
+      "hinh": "https://bizweb.dktcdn.net/thumb/1024x1024/100/442/323/products/ipad-pro-13-select-wifi-spacegray-202210-jpeg-080358a8-014a-470b-b72e-f5e71917ae6b-75606471-27c7-49fe-ade3-4bf42656cdb4.jpg",
+      "ngay": "2022-05-03",
+      "idLoai": "4"
+    },
+    {
+      "id": 28,
+      "tensp": "Tai nghe Bluetooth AirPods 2 ",
+      "giasp": "2300000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "AirPods 2 được tích hợp chip xử lý H1 thế hệ mới cho thời gian chuyển đổi kết nối giữa các thiết bị nhanh hơn gấp 2 lần so với phiên bản cũ.Đồng thời, trang bị công nghệ Bluetooth 5.0 cho kết nối nhanh chóng, ổn định, độ trễ ít, AirPods 2 cho tốc độ kết nối tới cuộc gọi thoại nhanh gấp 1.5 lần so với bình thường, giảm độ trễ âm thanh khi gọi thoại, chơi game,…Với khả năng cho tốc độ kết nối nhanh và đáp ứng độ trễ âm thanh tốt thì AirPods 2 vẫn là một ứng cử viên sáng giá cho những bạn chuộng hệ sinh thái nhà Apple",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/54/236016/bluetooth-airpods-2-apple-mv7n2-imei-1-org.jpg",
+      "ngay": "2020-05-03",
+      "idLoai": "5"
+    },
+    {
+      "id": 29,
+      "tensp": "Tai nghe Bluetooth AirPods Pro ",
+      "giasp": "4300000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "AirPods Pro được nâng cấp mạnh mẽ ở chất lượng âm thanh, cho âm bass mạnh mẽ hơn, chân thực hơn, độ chi tiết cao hơn, nhất là công nghệ Adaptive EQ, cho phép tự động điều chỉnh tần số âm thanh của bản nhạc theo hình dạng tai người dùng, mang lại trải nghiệm âm thanh tốt nhất.Có chip H1 chất lượng cao, xử lý âm thanh kỹ thuật số, tốc độ kết nối cực kì nhanh, cho độ trễ gần như bằng không.",
+      "hinh": "https://cdn.tgdd.vn/Products/Images/54/236026/airpods-pro-wireless-charge-apple-mwp22-ava-1-org.jpg",
+      "ngay": "2020-05-03",
+      "idLoai": "5"
+    },
+    {
+      "id": 30,
+      "tensp": "AirPods (thế hệ thứ 3) với Hộp Sạc MagSafe",
+      "giasp": "4700000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "AirPods có trọng lượng nhẹ và có thiết kế đường viền. AirPods gắn vào góc phù hợp để mang lại sự thoải mái và hướng âm thanh đến tai bạn tốt hơn. Phần thân ngắn hơn AirPods (thế hệ thứ 2) hơn 33% và bao gồm cảm biến lực để dễ dàng điều khiển âm nhạc và cuộc gọi.",
+      "hinh": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MME73?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1632861342000",
+      "ngay": "2020-05-03",
+      "idLoai": "5"
+    },
+    {
+      "id": 31,
+      "tensp": "AirPods Max - 2",
+      "giasp": "14700000",
+      "solanxem": 97,
+      "hot": 1,
+      "mota": "Dù thiết kế có thể không có quá nhiều đột phá so với thế hệ trước nhưng trong phiên bản Apple Airpod Max 2 lần này, tai nghe cũng sẽ được nâng cấp nhẹ những tính năng như: chống ồn chủ động (ANC), cảm biến phát hiện đại.Nhờ đó, chất lượng âm thanh mà tai nghe đem tới cho người dùng cũng sẽ sống động và lôi cuốn hơn. Tuổi thọ Pin và tính năng kháng nước, kháng mồ hôi cũng tốt hơn thế hệ trước, đem tới cho người dùng những trải nghiệm tốt hơn.",
+      "hinh": "https://cdn2.cellphones.com.vn/x358,webp,q100/media/catalog/product/t/_/t_i_xu_ng_-_2023-02-07t115331.048.png",
+      "ngay": "2023-05-03",
+      "idLoai": "5"
+    }
+  ],
+  "loaisp": [
+    {
+      "id": 1,
+      "tenLoai": "Điện thoại di động",
+      "soSP": 190
+    },
+    {
+      "id": 2,
+      "tenLoai": "Laptop",
+      "soSP": 178
+    },
+    {
+      "id": 3,
+      "tenLoai": "Đồng hồ đeo tay",
+      "soSP": 143
+    },
+    {
+      "id": 4,
+      "tenLoai": "Máy tính bảng",
+      "soSP": 781
+    },
+    {
+      "id": 5,
+      "tenLoai": "Tai Nghe",
+      "soSP": 351
+    }
+  ],
+  "donhang": [
+    {
+      "hoten": "a",
+      "diachi": "c",
+      "dienthoai": "e",
+      "email": "b",
+      "id": 1
+    },
+    {
+      "hoten": "1",
+      "diachi": "749 Huỳnh Tấn Phát",
+      "dienthoai": "e",
+      "email": "b",
+      "id": 2
+    },
+    {
+      "hoten": "1",
+      "diachi": "c",
+      "dienthoai": "0382189227",
+      "email": "thien@gmail.com",
+      "id": 3
+    },
+    {
+      "hoten": "a",
+      "diachi": "c",
+      "dienthoai": "e",
+      "email": "b",
+      "id": 4
+    },
+    {
+      "hoten": "Nguyễn Thiên",
+      "diachi": "c",
+      "dienthoai": "0382189227",
+      "email": "b",
+      "id": 5
+    },
+    {
+      "hoten": "1",
+      "diachi": "c",
+      "dienthoai": "0382189227",
+      "email": "b",
+      "id": 6
+    }
+  ],
+  "donhangchitiet": [
+    {
+      "iddh": 1,
+      "idsp": 6,
+      "tensp": "Samsung Galaxy Z Flip3 5G 128GB ",
+      "giasp": "15000000",
+      "soluong": 3,
+      "id": 1
+    },
+    {
+      "iddh": 1,
+      "idsp": 31,
+      "tensp": "AirPods Max - 2",
+      "giasp": "14700000",
+      "soluong": 1,
+      "id": 2
+    },
+    {
+      "iddh": 1,
+      "idsp": 13,
+      "tensp": "MacBook Pro 14 M1 Pro",
+      "giasp": "42490000",
+      "soluong": 4,
+      "id": 3
+    },
+    {
+      "iddh": 2,
+      "idsp": 6,
+      "tensp": "Samsung Galaxy Z Flip3 5G 128GB ",
+      "giasp": "15000000",
+      "soluong": 2,
+      "id": 4
+    },
+    {
+      "iddh": 2,
+      "idsp": 13,
+      "tensp": "MacBook Pro 14 M1 Pro",
+      "giasp": "42490000",
+      "soluong": 1,
+      "id": 5
+    },
+    {
+      "iddh": 2,
+      "idsp": 31,
+      "tensp": "AirPods Max - 2",
+      "giasp": "14700000",
+      "soluong": 1,
+      "id": 6
+    },
+    {
+      "iddh": 3,
+      "idsp": 13,
+      "tensp": "MacBook Pro 14 M1 Pro",
+      "giasp": "42490000",
+      "soluong": 3,
+      "id": 7
+    },
+    {
+      "iddh": 3,
+      "idsp": 2,
+      "tensp": "IPhone 14  128GB",
+      "giasp": "29490000",
+      "soluong": 1,
+      "id": 8
+    },
+    {
+      "iddh": 4,
+      "idsp": 3,
+      "tensp": "IPhone 14 P  128GB",
+      "giasp": "29490000",
+      "soluong": 1,
+      "id": 9
+    },
+    {
+      "iddh": 4,
+      "idsp": 1,
+      "tensp": "IPhone 14 Pro Max 128GB",
+      "giasp": "33490000",
+      "soluong": 2,
+      "id": 10
+    },
+    {
+      "iddh": 5,
+      "idsp": 13,
+      "tensp": "MacBook Pro 14 M1 Pro",
+      "giasp": "42490000",
+      "soluong": 2,
+      "id": 11
+    },
+    {
+      "iddh": 5,
+      "idsp": 31,
+      "tensp": "AirPods Max - 2",
+      "giasp": "14700000",
+      "soluong": 1,
+      "id": 12
+    },
+    {
+      "iddh": 6,
+      "idsp": 6,
+      "tensp": "Samsung Galaxy Z Flip3 5G 128GB ",
+      "giasp": "15000000",
+      "soluong": 3,
+      "id": 13
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,21 @@
+<h2 class="bg-primary p-2 text-white h3">
+     {{ tenLoai | uppercase }}
+</h2>
+<div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-2">
+  <div class="col" *ngFor="let sp of listSanPham | paginate: { itemsPerPage: pageSize, currentPage: pageNum, totalItems: total }">
+    <div class="card text-center">
+      <div class="card-body">
+        <img class="card-img-top img-fluid" [src]="sp.hinh" alt="Product Image">
+        <h3 class="h4" style="height: 45px">{{ sp.tensp }}</h3>
+        <p class="card-text h5 mt-3">Giá: {{ sp.giasp | number:'1.0-0':'fr' }} VNĐ</p>
+        <button class="btn btn-primary" type="button" (click)="addToCart(sp)">Thêm vào giỏ</button>
+      </div>
+      <div class="card-footer">
+        <a class="card-link" [routerLink]="'/sanpham/' + sp.id">Xem chi tiết</a>
+      </div>
+    </div>
+  </div>
+</div>
+<pagination-controls (pageChange)="chuyenDenTrang($event)"
+    previousLabel="Trước" nextLabel="Sau" [autoHide]="true" [responsive]="true">
+</pagination-controls>

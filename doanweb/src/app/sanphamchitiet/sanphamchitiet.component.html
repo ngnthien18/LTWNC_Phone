@@ -1,0 +1,36 @@
+<div class="container chitietsp">
+  <div class="row">
+    <div class="col-md-5">
+      <img style="height: 300px" src="{{ spChiTiet.hinh }}" />
+    </div>
+    <div class="col-md-7">
+      <ul class="list-group lg">
+        <li class="list-group-item">
+          <h1>{{ spChiTiet.tensp }}</h1>
+        </li>
+        <li class="list-group-item">
+          Giá: {{ spChiTiet.giasp | number : "1.0-0" : "fr" }} VNĐ
+        </li>
+        <li class="list-group-item">Số lần xem: {{ spChiTiet.solanxem }}</li>
+        <li class="list-group-item">Loại : {{ tenLoai }}</li>
+        <li class="list-group-item">
+          Ngày: {{ spChiTiet.ngay | date : "dd/MM/Y" }}
+        </li>
+        <li class="list-group-item">
+          <button class="btn btn-warning" type="button" (click)="addToCart(spChiTiet)">Thêm vào giỏ</button> |
+          <a class="btn btn-primary" href="#">Trang chủ </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <h3>Mô tả sản phẩm</h3>
+    <div class="text-justify">{{ spChiTiet.mota }}</div>
+    <hr />
+  </div>
+  <div class="row">
+    <app-san-pham-lien-quan [idLoai]="idLoai" [soSP]="3"></app-san-pham-lien-quan>
+  </div>
+  <div class="row">{{ spChiTiet.binhluan }}<!-- list bình luận --></div>
+  <div class="row"><!-- form thêm bình luận --></div>
+</div>
